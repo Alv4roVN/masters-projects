@@ -1,28 +1,52 @@
 # Data Science & Data Engineering Projects
 
-Welcome! This repository contains a selection of Jupyter notebooks and small projects I worked on during my Master's studies in Data Science. These materials represent part of my learning journey and are shared here to give an outline of the topics I've explored.
+Welcome! This repository contains a collection of notebooks and small projects completed during my Master's degree in Data Science. These works document part of my learning journey and are shared to provide insight into the topics and techniques I've explored.
 
-⚠️ **Note:** These projects are not intended to reflect my current level of expertise—I've grown significantly since completing them. Instead, think of this as a snapshot of foundational concepts I’ve worked with and built upon over time.
+> ⚠️ **Important Note**: All content in this repository is written in **Spanish**.
 
-## 🔍 What's Inside
+While these projects do not reflect my current level of expertise—I’ve significantly developed my skills since completing them—they offer a snapshot of the foundations I built during my studies.
 
-You'll find a variety of topics covered, including:
+---
 
-* Data preprocessing and analysis in Python
-* Introductory machine learning workflows
-* SQL and basic database operations
-* Early explorations in data engineering
+## 🗂️ Project Overview
 
-## 📌 What's Not Here (But I've Worked On)
+Here’s a brief summary of the contents:
 
-To keep this repository focused and lightweight (it would be a mess to find all projects and get them under version control in an organized manner), I haven't included all the work I’ve done. Some key areas missing from this repo but covered during my degree include:
+* **🧠 Examen RNN, MLP y CNN**
+  A pair of exams focused on demonstrating familiarity with different types of neural networks: Recurrent Neural Networks (RNNs), Multi-Layer Perceptrons (MLPs), and Convolutional Neural Networks (CNNs).
 
-* Distributed data processing with **PySpark**
-* Working with **NoSQL databases**, especially **MongoDB**
-* Advanced machine learning and **deep learning** projects
+* **🚢 ML End2End**
+  A full end-to-end machine learning workflow using the Titanic dataset. Covers data preprocessing, modeling, and evaluation—designed to show a complete ML pipeline.
 
-If you'd like to hear more about these, feel free to reach out!
+* **📊 ML: Modelo y gráficos descriptivos comunes**
+  An analysis applying several ML models, discussing common issues such as overfitting, and demonstrating approaches to mitigate them.
 
-## 💬 Contact
+* **🏋️ ML General**
+  A general-purpose predictive modeling project on obesity-related data, focusing on building a robust ML workflow.
 
-If you're interested in collaborating, have questions, or want to learn more about my recent work, you can reach me via \[LinkedIn/email/etc.].
+* **🌦️ Series temporales**
+  Time series modeling using weather data from Delhi. This early project doesn't include more advanced modeling techniques (e.g., RNNs or SARIMA with Fourier terms), but I reflect on these limitations and discuss how I'd approach it now with what I’ve learned.
+
+* **🗄️ SQL**
+  A database design project using MySQL. Includes schema definition, constraints via triggers, and sample queries and views to support meaningful data exploration.
+
+---
+
+## 📌 What’s Not Included (But I’ve Worked On)
+
+Some topics I’ve studied and applied aren't represented in this repository:
+
+* Distributed processing with **PySpark**
+* Working with **NoSQL databases** (e.g., **MongoDB**)
+* More advanced ML and **deep learning** models
+
+I'm happy to discuss these or provide examples—just reach out!
+
+---
+
+## 📬 Contact
+
+If you're an employer, collaborator, or fellow learner interested in my work, feel free to connect or ask questions.
+
+Thanks for visiting!
+
